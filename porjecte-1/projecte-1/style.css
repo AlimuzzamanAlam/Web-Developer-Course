@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*=========== image-countenar Start =========*/
+
+.img-countenar-wid-40 {
+    width: 40%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.img-countenar-wid-40 .image img {
+	width: 95%;
+	height: 676px;
+	transform: translatey(95px);
+}
+
+/*=========== image-countenar End =========*/
+
+
+/*=========== text-countenar Sater =========*/
+
+.text-countenar-wid-60 {
+    width: 60%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.text-contant {
+    width: 85%;
+}
+
+.text-countenar-wid-60 .menu-bar {
+    margin-top: 45px;
+}
+
+.text-contant .menu-bar ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+.text-contant .menu-bar ul li { 
+    float: left;
+}
+
+.text-contant .menu-bar ul>li:not(a) { 
+    padding-right: 46px;
+}
+
+.text-contant .menu-bar ul li a { 
+    text-decoration: none;
+    display: inline-block;
+    color: #45474b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+}
+
+.text-contant .hello  {
+    margin-top: 75px;
+}
+
+.text-contant .hello h1 {
+    font-size: 100px;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 400;
+    color: #45474b;
+}
+
+.claudia {
+    margin-top: 10px;
+}
+
+.claudia h1 {
+    color: #d25380;
+    font-family: "Roboto", sans-serif;
+    font-size: 90px;
+}
+
+.criative {
+    margin-top: 25px;
+}
+
+.criative p {
+	color: #45474b;
+	font-size: 19px;
+	font-family: "Roboto", sans-serif;
+	line-height: 30px;
+}
+
+.maingetsta {
+    margin-top: 60px;
+    margin-bottom: 30px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.getstart {
+    float: left;
+    margin-right: 28px;
+}
+
+.icon {
+    overflow: hidden;
+}
+
+.getstart a {
+	text-decoration: none;
+	color: #fffaf4;
+	padding: 13px 30px;
+	display: inline-block;
+	background: #45474b;
+	font-family: "Roboto", sans-serif;
+	font-weight: 700;
+	font-size: 22px;
+    border-radius: 50px;
+}
+
+.icon {
+	width: 8%;
+	background: #d25380;
+	text-align: center;
+	color: #f3eded;
+	border-radius: 112px;
+    font-size: 45px;
+    font-weight: 100;
+    font-family: "Raleway", sans-serif;
+}
+
+.follow {
+	transform: translate(344px,60px);
+	width: 43%;
+}
+
+.follow a {
+	text-decoration: none;
+    color: #45474b;
+    font-family: arial;
+    font-size: 20px;
+}
+
+.followme {
+    float: left;
+    margin-right: 30px;
+}
+
+.real {
+    overflow: hidden;
+}
+
+/*=========== text-countenar End =========*/
