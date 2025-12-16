@@ -102,6 +102,21 @@
     color: black;
 }
 
+.header-area .divisi {
+	width: 20%;
+	float: left;
+	transform: translatex(-99px);
+}
+
+.divisi h1 {
+	transform: translatex(80px);
+}
+
+.form {
+	width: 80%;
+	overflow: hidden;
+}
+
 .minu-bar {
     overflow: hidden;
     background: #292726;
@@ -1366,4 +1381,5 @@
  /* ======= footer area end ======*/
 
 /* ================================*/
+
 /* ================================*/
